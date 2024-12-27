@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734967915 source:c:\users\nouran\documents\code_blocks\project_c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
